@@ -38,17 +38,23 @@ python business_analyzer.py
 - チェックリスト作成時間の大幅短縮
 - 28年の業務知識をAI化し、再利用可能に
 
+
 ## 関連プロジェクト
 
 ### LINE × Make × OpenAI × Google Sheets連携（PoC）
-過去に実施した外部サービス統合の概念実証。
+外部サービス統合の概念実証として実施。
 詳細は [LINE-PoC.md](LINE-PoC.md) を参照。
 
-技術スタック：
+**技術スタック：**
 - LINE Messaging API
-- Make（旧Integromat）
+- Make（ノーコード自動化プラットフォーム）
 - OpenAI API
 - Google Sheets API
+
+**成果：**
+- 13ステップの実装プロセスを文書化
+- トラブルシューティングの知見をナレッジ化
+- API連携とノーコードツールの実践経験
 
 
 ## 開発者
